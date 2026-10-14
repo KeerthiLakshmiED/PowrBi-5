@@ -109,8 +109,4 @@ All four relationships use **one-to-many (1:*) cardinality** and single-directio
 
 A cleaned healthcare data model with patient, doctor, hospital, and date dimensions connected to a central admission fact table. The model is structured to support future Power BI reports and clinical data analysis.
 
-
-
----
-
-**If you find this project useful, consider giving the repository a ⭐ on GitHub.**
+<img width="434" height="225" alt="Screenshot 2026-10-14 145435" src="https://github.com/user-attachments/assets/3b4baebb-8d48-40bc-9de6-e8f7d9d4267d" />
